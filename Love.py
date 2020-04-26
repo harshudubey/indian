@@ -206,7 +206,7 @@ print  """
 \033[1;94minstagram  \033[1;91m: \033[1;91m+harshu x3 ruchika
 \033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mharshu dubey\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"""
 jalan('\033[1;92m   .........................harshu dubey.........................:')
-jalan("\033[1;93m   ◥◤◥◤◥◤◥◤◥◤◥◤◥◤ Welcome to XIDI-PAKISTANI ◥◤◥◤◥◤◥◤◥◤◥◤◥◤   ")
+jalan("\033[1;93m   ◥◤◥◤◥◤◥◤◥◤◥◤◥◤ Welcome to harshu_dubey ◥◤◥◤◥◤◥◤◥◤◥◤◥◤   ")
 jalan('\033[1;93m ☞ ┈┈┈┈┈┈┈┈┈┈┈┈Login New Acount┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈  ')
 jalan('\033[1;93m ☞ ┈┈┈┈┈┈┈ CP Acount Open After 7 Days ┈┈┈┈┈┈┈┈┈┈┈┈  ')
 jalan("\033[1;93m ☞ ┈┈Frends Cloning k liy sirf indian id ka link usè karain┈ ")
@@ -222,7 +222,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;94m◥◤◥◤🔑\x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Xidi_Pakistani
+            print "Logged in successfully as " + username #Dev:harshu_ruchika
 	    time.sleep(2)
             loop = 'false'
         else:
